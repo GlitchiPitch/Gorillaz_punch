@@ -1,0 +1,13 @@
+{
+    "ClassName": "Folder",
+    "Children": [
+        {
+            "Name": "Power",
+            "ClassName": "NumberValue"
+        },
+        {
+            "Name": "Bananas",
+            "ClassName": "IntValue"
+        }
+    ]
+}
